@@ -3,7 +3,7 @@ package Example;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Exam20 {
+public class RandomLottery {
 	public static void main(String[] args) {
 		int num = 0;
 		Set<Integer> set = new HashSet<>();
