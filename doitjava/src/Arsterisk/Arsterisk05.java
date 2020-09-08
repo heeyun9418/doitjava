@@ -8,9 +8,8 @@ public class Arsterisk05 {
 					System.out.print(" ");
 				} else {
 					System.out.print(i + 1);
-					System.out.println();
 				}
-			}//내가 만든 식
+			} System.out.println(); //내가 만든 식
 		}
 //		for (int i = 4; i >= 0; i--) {
 //			for (int j = 0; j <= i; j++) {
@@ -23,6 +22,5 @@ public class Arsterisk05 {
 //			}
 //			System.out.println();
 //		}
-
 	}
 }
