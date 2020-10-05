@@ -1,4 +1,4 @@
-package BaseballGame;
+package ChapterPractice;
 
 import java.util.Scanner;
 
