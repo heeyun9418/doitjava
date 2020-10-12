@@ -1,0 +1,2 @@
+InputStream 예제
+text file을 사용하고 있습니다
